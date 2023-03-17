@@ -1,0 +1,73 @@
+/* Write your CSS here */
+.cashContainer {
+  background-color: #ffffff;
+  height: 100vh;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.cardContiner {
+  background-color: #150b3e;
+  width: 46vw;
+  border-radius: 10px;
+}
+.user {
+  display: flex;
+  margin-left: 40px;
+  margin-top: 40px;
+}
+.userProfile {
+  height: 10vh;
+  width: 10vh;
+  border-radius: 100px;
+  background-color: #c7d2fe;
+  color: #7c3aed;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.userName {
+  color: #d4d2db;
+  margin-left: 20px;
+  margin-top: 20px;
+  font-size: 22px;
+}
+.balancepara {
+  color: #585076;
+  margin-left: 25px;
+  font-size: 25px;
+}
+.rupe {
+  color: #585076;
+  margin-right: 20px;
+  font-weight: 500;
+}
+.choose {
+  color: #585076;
+  margin-left: 20px;
+  padding: 10ox;
+  font-weight: 500;
+}
+.balanceCard {
+  display: flex;
+  justify-content: space-between;
+}
+.moneycard {
+  margin-left: 10px;
+}
+.value {
+  font-size: 35px;
+  color: #ffffff;
+}
+.with {
+  color: #ffffff;
+  font-size: 23px;
+  margin-left: 25px;
+  padding: 15px;
+}
+.items {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
